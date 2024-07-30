@@ -1,6 +1,7 @@
 import styles from "../components/Section1.module.css"
 import React from 'react'
 import bg from '../Images/1/main.png'
+import links from '../Images/1/links.png'
 
 const Section1=()=>{
 
@@ -19,6 +20,12 @@ const Section1=()=>{
                         loading="lazy"
                         alt=""
                         src={bg}
+                    />
+                    <img
+                        className={styles.imageSocial}
+                        loading="lazy"
+                        alt=""
+                        src={links}
                     />
                 </div>
             </div>
