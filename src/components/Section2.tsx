@@ -7,7 +7,7 @@ import fire from "../Images/2/fire.png"
 
 const Section2=()=>{
 
-    const caAddress=useRef("3r434534535").current
+    const caAddress=useRef("TBA").current
     const items=useRef([
         {text:"Ta"}
     ])
