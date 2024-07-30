@@ -62,17 +62,17 @@
     }
 
     .image{
-        width:500px;
+        width:600px;
         height: auto;
         object-fit: contain;
     }
 
     .text1{
-        font-size: 80px;
+        font-size: 100px;
     }
 
     .text2{
-        font-size: 60px;
+        font-size: 70px;
         max-width: 80%;
     }
 

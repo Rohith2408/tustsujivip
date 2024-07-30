@@ -12,6 +12,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 20px;
 }
 
 .coin{
@@ -40,8 +41,8 @@
 
 @media screen and (min-width:1025px){
     .mainWrapper{
-        max-height: 900px;
-        min-height: 850px;
+        max-height: 1150px;
+        min-height: 1100px;
     }
 
     .subWrapper{
@@ -56,12 +57,12 @@
     }
 
     .text1{
-        font-size: 60px;
+        font-size: 70px;
         max-width: 75%;
     }
 
     .text2{
-        font-size: 40px;
+        font-size: 50px;
         max-width: 75%;
     }
 
